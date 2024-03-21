@@ -1,0 +1,47 @@
+.html{
+  margin: 0px;
+}
+.containor .mainbox{
+  background-color: beige;
+  height: 100vh;
+}
+.box{
+  border: 1px solid black;
+  border-radius: 50px;
+  width: 500px;
+  height: 614px;
+  margin: 3em;
+  padding: 1em;
+  text-align: center;
+}
+
+.item-img{
+  width: 400px;
+}
+.main{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  display: flex;
+  justify-content: center;
+}
+.win {
+  border: 10px solid blue;
+  color: blue;
+}
+.lose {
+  border: 10px solid red;
+  color: red;
+}
+.tie {
+  border: 10px solid black;
+  color: black;
+}
+.buttoneach{
+  border: none;
+  border-radius: 30px;
+  font-size: 50px;
+  margin: 10px;
+  background-color: burlywood;
+}
